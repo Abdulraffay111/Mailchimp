@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.zero{
+    text-align: center;
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    max-width: 950px ; 
+    gap: 30px; 
+}
+.four{
+    text-align: center;
+}
+.eight{
+     text-align: center;
+     position: relative;
+     top: 20px;
+}
+.tevelve{
+    text-align: center;
+}
+.sixteen{
+    text-align: center;
+}
+.seventeen{
+    display: flex;
+    justify-content: space-around;
+}
+.nineteen{
+    width: 7rem;
+}
+.twenty{
+    width: 7rem;
+}
+.twentyone{
+    width: 7rem;
+}
+.eighteen{
+    width: 7rem;
+}
+.twentytwo{
+    text-align: center;
+}
+.twentyfour{
+    border: 2px solid black;
+    border-radius: 50px;
+    font-size: medium;
+    background-color: yellow;
+    height: 30px;
+}
+.twentyfour:hover{
+    background-color: white;
+    color: aqua;
+    cursor: pointer;
+}
+.twentysix{
+    text-align: center;
+}
+.twentyseven{
+    display: flex;
+    justify-content: space-around;
+}
+.thirty{
+     position: relative;
+    top: 10rem;
+}
+.thirtyone{
+    display: flex;
+    justify-content: space-around;
+}
+.thirtytwo{
+ position: relative;
+    top: 10rem;
+}
+.thirtyfour{
+    display: flex;
+    justify-content: space-around;
+}
+.thirtyseven{
+         position: relative;
+    top: 10rem;
+}
+.thirtyeight{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.thirtynine{
+    text-align: center;
+    position: relative;
+    left: 3rem;
+}
+.fourtythree{
+    text-align: center;
+}
+.fourtyseven{
+    text-align: center;
+}
+.fourty{
+    text-align: center;
+}
+.fourtyone{
+    text-align: center;
+}
+.fourtytwo{
+    text-align: center;
+}
+.fourtythree{
+    text-align: center;
+}
+.fourtyfour{
+    text-align: center;
+}
+.fourtyfive{
+    text-align: center;
+}
+.fourtysix{
+    text-align: center;
+}
+.fourtyseven{
+    text-align: center;
+    position: relative;
+    left: 3.5rem;
+}
+.fourtyeight{
+    text-align: center;
+}
+.fourtynine{
+    text-align: center;
+}
+.never{
+    position: relative;
+    top: 1rem;
+}
+.twentyfive{
+    background-color: rgb(225 218 218);
+}
+
